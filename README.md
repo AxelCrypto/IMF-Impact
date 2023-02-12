@@ -120,32 +120,31 @@ Based on SQL query:
 
 ### Bangladesh 
 Increase of IMF loans towards $ 3.2 billion in 2021:   
-![Bangladesh1](Results/Bangladesh 1.png)
+![bangladesh1](Results/bangladesh1.png)
 
 Debt is never free. $5.7bl of principal + interest in 2021 alone: 
-![Bangladesh2](Results/Bangladesh2.png)
+![bangladesh2](Results/bangladesh2.png)
 
 The net income as % of gdp going to the population tanks close to 0:  
-![Bangladesh3](Results/Bangladesh3.png)
-
+![bangladesh3](Results/bangladesh3.png)
 
 GDP increase is stable at around 5%. So no sign of improvement since IMF loans.
-![Bangladesh5](Results/Bangladesh5.png)
+![bangladesh5](Results/bangladesh5.png)
 
 Exports skyrocked:
-![Bangladesh6](Results/Bangladesh6.png)
+![bangladesh6](Results/bangladesh6.png)
 
 But the current account balance is negative showing that imports > exports:  
-![Bangladesh7](Results/Bangladesh7.png)
+![bangladesh7](Results/bangladesh7.png)
 
 % of Poverty seems improving:
-![Bangladesh9](Results/Bangladesh9.png)
+![bangladesh9](Results/bangladesh8.png)
 
 10% richer got a richer with currently 25% of total incomes:
-![Bangladesh10](Results/Bangladesh 10.png)
+![bangladesh10](Results/bangladesh9.png)
 
 10% poorer remained stagnant with aroung 3.5% of incomes:
-![Bangladesh10](Results/Bangladesh 10.png)
+![bangladesh10](Results/bangladesh10.png)
 
 Based on SQL query: 
-- Bangladesh has a credit rating of BB-, an external debt to GDP of 22% and an External Debt $78 bl
+- banglades has a credit rating of BB-, an external debt to GDP of 22% and an External Debt $78 bl

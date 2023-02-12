@@ -44,10 +44,72 @@ Use of BeautifulSoup.
 
 
 ## Database Exportation to SQL 📚
-I uploaded the three tables to SQL.
+I uploaded the three tables to SQL.  
 IMF is linked to the table debt and the table ratings through the foreign keys 'id_Name' and 'id_Ratings'
 
 ![sql ](Images/sql.png)
 
+complete view :
+![complete view ](Images/complete view.png)
 
+
+## Analysis 📊
+
+78 countries from Latin America, South Asia or Africa received loans from the IMF.
+I realised a random sample and obtain to analyse the 5 following countries:
+![sample ](Images/sample.png)
+
+
+From my still long short list of indicators I decided to select the following ones:
+
+- IMF Loans indicators:   
+  - 'Use of IMF credit (DOD, current US$)' : Total outstanding Loan from IMF  
+  - 'Debt service on external debt' : sum of the principal repayments and interest payments actually made on these debts.
+  - 'Adjusted net national income (annual % growth)' : total dollar value of everything produced by a country and the income its residents receive (Like GDP but only for resident)
+  - 'Inflation, GDP deflator (annual %)' : inflation of local currency
+ 
+- 'GDP growth (annual %)' : Increase of GDP
+
+
+- Exports and Imports : 
+  - 'Exports of goods and services (current US$)': Total Exports
+  - External balance on goods and services (% of GDP) : X-M
+  'Current account balance (% of GDP)' : X-M as % of GDP
+
+- poverty:
+  - 'Income share held by highest 20%'
+  - Income share held by lowest 10%
+  - Poverty headcount ratio at national poverty lines (% of population) - Bangladesh
+  - Income share held by highest 10%
+  - Income share held by lowest 20%
+
+
+
+###  Uganda 
+Increase of IMF loans towards $ 1.4 billion in 2021:   
+![Uganda1](Results/Uganda1.png)
+
+Debt is never free. $800M of principal + interest in 2021 alone: 
+![Uganda2](Results/Uganda2.png)
+
+Inflation stable
+![Uganda3](Results/Uganda3.png)
+
+GDP increased until 1994. Shrinking since then.
+![Uganda4](Results/Uganda4.png)
+
+Exports skyrocked:
+![Uganda5](Results/Uganda5.png)
+
+But the current account balance is deeply negative showing that imports > exports:  
+![Uganda7](Results/Uganda7.png)
+
+% of Poverty seems improving:
+![Uganda8](Results/Uganda8.png)
+
+10% richer got a slightly richer with 35% of incomes:
+![Uganda9](Results/Uganda9.png)
+
+10% poorer remained stagnant with 2.5% of incomes:
+![Uganda10](Results/Uganda10.png)
 

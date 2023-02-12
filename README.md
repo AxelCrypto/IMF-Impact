@@ -1,4 +1,4 @@
-# Impact of IMF on Developping Countries
+# Impact of IMF on Developping Countries 🌍
 
 #### What is the impact of IMF loans towards borrowers' GDP and Poverty Statistics. 
 
@@ -42,6 +42,12 @@ Use of BeautifulSoup.
 ![ratings](Images/ratings.png)
 
 
+
+## Database Exportation to SQL 📚
+I uploaded the three tables to SQL.
+IMF is linked to the table debt and the table ratings through the foreign keys 'id_Name' and 'id_Ratings'
+
+![sql ](Images/sql.png)
 
 
 

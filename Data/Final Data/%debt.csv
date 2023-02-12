@@ -1,210 +1,79 @@
 ,Name,External_Debt_USD,Date,Per_capita_USD,%ofGDP,id_Name
-0,United States,31 trillion,January 2023[1],"94,188",121.08,0
-1,United Kingdom,8.73 trillion,June 2022[1],"129,203",273.06,1
-2,France,7.04 trillion,June 2022[1],"107,245",253.35,2
-3,Germany,6.46 trillion,June 2022[1],"77,607",160.35,3
-4,Japan,4.36 trillion,June 2022[1],"34,841",101.41,4
 5,China,2.64 trillion,June 2022[1],"1,866",14.39,5
-6,Italy,2.51 trillion,31 December 2017[2],"42,300",141.00,6
-7,Spain,2.26 trillion,31 December 2017[3],"48,700",170.00,7
-8,Canada,1.93 trillion,31 December 2017[4],"52,300",143.00,8
-9,Australia,1.83 trillion,31 September 2020[5],"71,906",130.00,9
-10,Switzerland,1.82 trillion,31 December 2017[6],"213,100",285.00,10
-11,Singapore,1.67 trillion,30 June 2021[7],"231,000",471.00,11
-12,Belgium,1.28 trillion,30 June 2017[8],"112,000",269.00,12
-13,Austria,757 billion,31 December 2020[9],"84,061",165.00,13
-14,Norway,721 billion,June 2022[10],"132,676",133.40,14
-15,Finland,136 billion,31 March 2022[11],"24,578",218.00,15
-16,India,620.7 billion,March 2022[12],437,19.90,16
-17,Brazil,556 billion,30 September 2017[13],"3,200",38.00,17
-18,Netherlands,555 billion,December 2021[14],"26,540",52.00,18
-19,Denmark,492 billion,30 June 2017[15],"85,700",158.00,19
-20,Russia,489 billion,1 September  2021[16],"3,700",32.00,20
-21,Turkey,444 billion,31 March 2022 [17],"5,155",55.00,21
-22,Greece,442 billion,31 December 2017[18],"42,800",298.00,22
-23,Mexico,437 billion,31 December 2017[19],"3,300",43.00,23
-24,Portugal,408 billion,31 December 2021[20],"39,478",128.00,24
-25,South Korea,407 billion,30 June 2017[21],"7,500",33.00,25
-26,Indonesia,395 billion,September 2022[22],"1,431",30.00,26
-27,Poland,364 billion,30 June 2017[23],"9,500",60.00,27
-28,Argentina,273 billion,31 September 2020[24],"6,037",72.00,28
-29,Malaysia,229 billion,30 June 2021[25],"6,800",68.00,29
-30,Ireland, 228 billion,31 December 2017[26],"49,000",701.00,30
-31,Ukraine,225 billion,30 June 2021[27],"2,200",81.00,31
-32,United Arab Emirates,220 billion,31 December 2016 est.[28],"23,500",59.00,32
-33,Saudi Arabia,201 billion,31 December 2016 est.[29],"6,100",31.00,33
+16,India,620.7 billion,March 2022[12],437,19.9,16
+17,Brazil,556 billion,30 September 2017[13],"3,200",38,17
+20,Russia,489 billion,1 September  2021[16],"3,700",32,20
+21,Turkey,444 billion,31 March 2022 [17],"5,155",55,21
+23,Mexico,437 billion,31 December 2017[19],"3,300",43,23
+26,Indonesia,395 billion,September 2022[22],"1,431",30,26
+28,Argentina,273 billion,31 September 2020[24],"6,037",72,28
 34,Mauritius,200 billion,30 June 2018[30],"148,000",2.01,34
-35,Taiwan,199 billion,30 June 2018[31],"7,400",28.00,35
-36,New Zealand,192 billion,31 March 2020[32],"38,400",90.00,36
-37,Chile,187 billion,31 March 2019[33],"9,771",82.00,37
-38,Puerto Rico (United States),167 billion,31 January 2015 est.,"47,800",164.00,38
-39,Kazakhstan,167 billion,31 March 2017[34],"9,100",91.00,39
-40,Qatar,159 billion,31 December 2016 est.[35],"68,100",83.00,40
-41,Egypt,158 billion,March 2022 est.[36],700.00,34.00,41
-42,Thailand,149 billion,31 December 2017[37],"2,170",33.00,42
-43,Hungary,148 billion,30 June 2017[38],"15,000",160.00,43
-44,South Africa,143 billion,31 December 2016[39],"2,600",57.00,44
-45,Czechia,138 billion,31 December 2016[40],"13,000",76.00,45
-46,Pakistan,122 billion,30 September  2021[41],554.00,43.00,46
-47,Colombia,121 billion,31 January 2017[42],"2,500",57.00,47
-48,Cyprus,120 billion,30 June 2017[43],"97,200",849.00,48
-49,Venezuela,111 billion,30 September 2015[44],"3,500",23.00,49
-50,Romania,109 billion,31 July 2017[45],"5,100",58.00,50
-51,Malta,96.3 billion,30 June 2017[46],"223,000",691.00,51
-52,Sweden,94.9 billion,30 september 2022[47],"94,330",23.00,52
-53,Israel,89.4 billion,30 June 2017[48],"10,700",33.00,53
-54,Slovakia,86.6 billion,30 June 2017[49],"15,900",112.00,54
-55,Bangladesh,78.4 billion,16 October 2021[50],460.00,22.00,55
-56,Peru,74.7 billion,31 December 2016[51],"2,300",44.00,56
-57,Philippines,72.5 billion,30 June 2017[52],720.00,27.00,57
-58,Iraq,68 billion,31 December 2016 est.[53],"1,800",44.00,58
-59,Morocco,63.7 billion,1 March 2022[54],"1,400",46.00,59
-60,Slovenia,52 billion,30 April 2020[55],"25,000",104.00,60
-61,Vietnam,50.9 billion,31 December 2015[56],500.00,26.00,61
-62,Kuwait,47.9 billion,31 December 2016 est.[57],"11,700",51.00,62
-63,Sri Lanka,46.6 billion,31 December 2016[58],"2,200",68.00,63
-64,Croatia,46.1 billion,30 June 2017[59],"10,700",89.00,64
-65,Sudan,45 billion,31 December 2015[60],"1,100",121.00,65
-66,Latvia,41.1 billion,30 June 2017[61],"21,200",126.00,66
-67,Bulgaria,40.4 billion,31 January 2018[62],"5,700",63.00,67
-68,Lebanon,39.6 billion,30 April 2022[63],"6,000",220.00,68
-69,Belarus,39 billion,30 June 2017[64],"4,000",66.00,69
-70,Angola,37.7 billion,31 December 2016 est.[65],"1,400",41.00,70
-71,Ecuador,36.7 billion,31 August 2017[66],"2,100",57.00,71
-72,Lithuania,36.4 billion,30 June 2017[67],"12,700",74.00,72
-73,Serbia,28 billion,30 June 2017[68],"3,200",62.00,73
-74,Jordan,27.8 billion,30 June 2017[69],"3,400",83.00,74
-75,Cuba,26.3 billion,31 December 2016 est.[70],"2,300",34.00,75
-76,Uruguay,26.1 billion,31 December 2016[71],"7,600",50.00,76
-77,Dominican Republic,26.1 billion,31 December 2016 est.[72],"2,400",36.00,77
-78,Mongolia,25.2 billion,30 June 2017[73],"7,800",245.00,78
-79,Tunisia,25.1 billion,31 December 2012[74],"2,200",97.00,79
-80,Costa Rica,24.9 billion,31 December 2016 est.[75],"5,100",43.00,80
-81,Iceland,24.4 billion,30 June 2017[76],"72,700",81.00,81
-82,Ethiopia,22.5 billion,31 December 2016 est.[77],220.00,32.00,82
-83,Kenya,22.2 billion,30 June 2017[78],370.00,26.00,83
-84,Papua New Guinea,22 billion,31 December 2016 est.[79],"2,800",111.00,84
-85,Trinidad & Tobago,21.5 billion,31 December 2016[80],"15,700",76.00,85
-86,Ghana,21.2 billion,31 December 2016 est.[81],700.00,30.00,86
-87,Bahrain,21.2 billion,31 December 2016 est.[82],"14,900",66.00,87
-88,Oman,20.9 billion,31 December 2016 est.[83],"4,400",35.00,88
-89,Estonia,20.5 billion,31 December 2016[84],"15,700",89.00,89
-90,Guatemala,19.1 billion,31 December 2016 est.[85],"1,100",28.00,90
-91,Palau,18.4 billion,31 December 2014 est.[86],"846,000",6.21,91
-92,Panama,18.3 billion,28 February 2018[87],"4,400",157.00,92
-93,Bahamas,17.6 billion,31 December 2013 est.[88],"44,200",194.00,93
-94,Jamaica,16.8 billion,31 December 2016 est.[89],"6,000",122.00,94
-95,Monaco,16.5 billion,30 June 2010 est.,"434,000",240.00,95
-96,Georgia,16.4 billion,30 June 2017[90],"3,900",128.00,96
-97,Paraguay,16.1 billion,31 December 2016[91],"2,400",54.00,97
-98,Tanzania,15.9 billion,31 December 2016 est.[92],280.00,34.00,98
-99,Uzbekistan,15.8 billion,31 December 2016 est.[93],500.00,24.00,99
-100,Nigeria,15 billion,30 June 2017[94],60.00,2.00,100
-101,El Salvador,14.9 billion,31 December 2016 est.[95],"2,400",56.00,101
-102,Laos,12 billion,31 December 2016 est.[96],"1,700",53.00,102
-103,Nicaragua,11.1 billion,31 December 2016 est.[97],"1,800",83.00,103
-104,Zimbabwe,10.9 billion,31 December 2016 est.[98],670.00,77.00,104
-105,Luxembourg,10.6 billion,31 March 2020 [99],"114,704",22.10,105
-106,Albania,10.5 billion,31 December 2020[100],"3,634",66.00,106
-107,Ivory Coast,10 billion,31 December 2015[101],420.00,24.00,107
-108,Cambodia,9.82 billion,31 December 2016[102],600.00,57.00,108
-109,Mozambique,9.55 billion,31 December 2016 est.[103],320.00,72.00,109
-110,Zambia,9.27 billion,31 December 2016 est.[104],540.00,45.00,110
-111,Honduras,8.04 billion,31 December 2016 est.[105],"1,000",38.00,111
-112,Kyrgyzstan,7.87 billion,31 December 2016[106],"1,300",112.00,112
-113,North Macedonia,7.65 billion,31 December 2016[107],"3,700",73.00,113
-114,Cameroon,7.38 billion,31 December 2016 est.[108],300.00,24.00,114
-115,Yemen,7.19 billion,31 January 2015[109],260.00,21.00,115
-116,Iran,7.12 billion,31 December 2016 est.[110],90.00,2.00,116
-117,Azerbaijan,6.91 billion,31 December 2016[109],"1,300",22.00,117
-118,Moldova,6.59 billion,31 December 2016[111],"1,600",70.00,118
-119,Namibia,6.52 billion,31 December 2016 est.[112],"2,500",64.00,119
-120,Bolivia,6.34 billion,31 December 2015[91],600.00,33.00,120
-121,Uganda,6.24 billion,31 December 2016 est.[113],150.00,24.00,121
-122,Senegal,6.19 billion,31 December 2016 est.[114],390.00,42.00,122
-123,Armenia,6.05 billion,31 December 2020[115],"2,043",102.00,123
-124,Myanmar,6.4 billion,31 December 2015[116],120.00,17.00,124
-125,Syria,5.92 billion,31 December 2016 est.[103],300.00,24.00,125
-126,Democratic Republic of the Congo,5.33 billion,31 December 2016 est.[117],70.00,13.00,126
-127,Gabon,5.16 billion,31 December 2016 est.[118],"2,900",35.00,127
-128,North Korea,5 billion,2013 est.[119],200.00,18.00,128
-129,Republic of the Congo,4.82 billion,31 December 2016 est.[120],"1,000",55.00,129
-130,Bosnia and Herzegovina,4.72 billion,30 June 2017[121],"1,300",23.00,130
-131,Barbados,4.49 billion,2010 est.[122],"15,700",100.00,131
-132,Montenegro,4.41 billion,26 March 2021[123],"6,742",151.00,132
-133,Madagascar,4.01 billion,31 December 2016 est.[124],160.00,41.00,133
-134,Algeria,3.84 billion,31 December 2019[125],89.00,2.00,134
-135,Mali,3.63 billion,31 December 2016 est.[126],200.00,26.00,135
-136,Mauritania,3.59 billion,31 December 2016 est.[127],840.00,76.00,136
-137,Libya,3.53 billion,31 December 2016 est.[128],550.00,9.00,137
-138,Nepal,3.45 billion,31 July 2015[129],120.00,16.00,138
-139,Burkina Faso,3.09 billion,31 December 2016 est.[130],160.00,26.00,139
-140,Somalia,3.05 billion,31 December 2013 est.[131],270.00,52.00,140
-141,Niger,2.73 billion,31 December 2016 est.[132],130.00,36.00,141
-142,Seychelles,2.55 billion,31 December 2016 est.[133],"26,200",180.00,142
-143,Rwanda,2.44 billion,31 December 2016 est.[134],200.00,29.00,143
-144,Bermuda (UK),2.44 billion,2015 est.[135],"39,700",47.00,144
-145,Kosovo,2.39 billion,30 June 2017[136],"1,200",37.00,145
-146,Benin,2.34 billion,31 December 2016 est.[137],200.00,26.00,146
-147,Tajikistan,2.27 billion,31 December 2016[138],260.00,38.00,147
-148,Bhutan,2.26 billion,31 December 2016 est.[139],"2,900",108.00,148
-149,Haiti,2.02 billion,31 December 2016 est.[140],180.00,24.00,149
-150,Malawi,1.92 billion,31 December 2016 est.[141],100.00,39.00,150
-151,South Sudan,1.92 billion,2017[142],167.00,62.70,151
-152,Chad,1.88 billion,31 December 2016 est.[143],130.00,18.00,152
-153,Botswana,1.69 billion,31 March 2017[144],720.00,8.00,153
-154,Palestine,1.66 billion,31 March 2016 est.[145],340.00,35.00,154
-155,Cape Verde,1.66 billion,31 December 2016 est.[146],"3,100",99.00,155
-156,Sierra Leone,1.56 billion,31 December 2016 est.[147],230.00,36.00,156
-157,Equatorial Guinea,1.36 billion,31 December 2016 est.[148],"1,500",12.00,157
-158,Djibouti,1.34 billion,31 December 2016 est.[149],"1,500",71.00,158
-159,Guinea,1.33 billion,31 December 2016 est.[134],100.00,20.00,159
-160,Belize,1.33 billion,31 December 2016 est.[148],"3,500",75.00,160
-161,Afghanistan,1.28 billion,FY-2010/11[150],40.00,7.00,161
-162,Suriname,1.24 billion,31 December 2016 est.[151],"2,200",30.00,162
-163,Togo,1.17 billion,31 December 2016 est.[152],150.00,26.00,163
-164,Guyana,1.14 billion,31 December 2015[153],"1,500",36.00,164
-165,Andorra,1.11 billion,2014 est.[154],"14,345",41.00,165
-166,Liberia,1.11 billion,31 December 2016 est.[155],230.00,51.00,166
-167,Guinea-Bissau,1.1 billion,31 December 2010 est.[156],570.00,94.00,167
-168,Lesotho,949 million,31 December 2016 est.[157],430.00,53.00,168
-169,Faroe Islands (Denmark),889 million,2010[158],"18,400",38.00,169
-170,Fiji,833 million,31 December 2016 est.[159],900.00,18.00,170
-171,Eritrea,820 million,31 December 2016 est.[160],150.00,15.00,171
-172,Maldives,742 million,2014 est.[161],"2,000",23.00,172
-173,Burundi,705 million,31 December 2016 est.[162],60.00,26.00,173
-174,Aruba,693 million,31 December 2014 est.[163],"6,600",28.00,174
-175,Central African Republic,687 million,31 December 2016 est.[164],130.00,39.00,175
-176,Grenada,679 million,2013 est.[165],"6,300",66.00,176
-177,Gambia,542 million,31 December 2016 est.[166],260.00,61.00,177
-178,Saint Lucia,513 million,31 December 2016 est.[167],"2,700",36.00,178
-179,Turkmenistan,503 million,31 December 2016 est.[168],90.00,1.00,179
-180,Solomon Islands,492 million,31 December 2013 est.[169],800.00,40.00,180
-181,Eswatini,471 million,31 December 2016 est.[170],360.00,14.00,181
-182,Samoa,447 million,31 December 2013 est.[171],"2,300",51.00,182
-183,Antigua and Barbuda,441 million,31 December 2012[172],"4,700",34.00,183
-184,Brunei,340 million,2017[174],"27,200",2.80,184
-185,Saint Vincent and the Grenadines,321 million,31 December 2016 est.[175],"2,900",42.00,185
-186,Timor-Leste,312 million,31 December 2014 est.[176],250.00,12.00,186
-187,Dominica,289 million,31 December 2016 est.[177],"3,900",55.00,187
-188,Cook Islands,281 million,31 December 2011[178],"13,400",23.00,188
-189,Sao Tome and Principe,237 million,31 December 2016 est.[179],"1,200",67.00,189
-190,Tonga,233 million,31 December 2016 est.[180],"2,200",54.00,190
-191,Vanuatu,208 million,31 December 2016 est.[181],750.00,27.00,191
-192,Saint Kitts and Nevis,188 million,31 December 2016 est.[182],"3,300",20.00,192
-193,Comoros,133 million,31 December 2016 est.[183],160.00,21.00,193
-194,New Caledonia (France),112 million,31 December 2013 est.[184],420.00,1.00,194
-195,Marshall Islands,98 million,2013 est.[185],"1,800",52.00,195
-196,Micronesia,93.6 million,2013 est.[186],900.00,29.00,196
-197,Cayman Islands (UK),79 million,1998 est.,"2,100",7.00,197
-198,Greenland (Denmark),36.4 million,2010[187],650.00,2.00,198
-199,Nauru,33.3 million,2004 est.[188],"3,200",22.00,199
-200,British Virgin Islands (UK),17.7 million,31 December 2016[189],570.00,2.00,200
-201,Tuvalu,14.8 million,2017 est.[190],"1,224",37.00,201
-202,Kiribati,13.6 million,2013 est.[191],120.00,8.00,202
-203,Anguilla (UK),8.8 million,1998[192],590.00,5.00,203
-204,Wallis and Futuna (France),3.67 million,2004[193],280.00,6.00,204
-205,Montserrat (UK),1.04 million,31 December 2011[194],200.00,2.00,205
-206,Liechtenstein,0.00,2001[195],0.00,0.00,206
-207,Niue (New Zealand),0.00,27 October 2016[196],0.00,0.00,207
-208,San Marino,352 million,2016,"10,604",23.0,208
+44,South Africa,143 billion,31 December 2016[39],"2,600",57,44
+46,Pakistan,122 billion,30 September  2021[41],554,43,46
+47,Colombia,121 billion,31 January 2017[42],"2,500",57,47
+55,Bangladesh,78.4 billion,16 October 2021[50],460,22,55
+56,Peru,74.7 billion,31 December 2016[51],"2,300",44,56
+63,Sri Lanka,46.6 billion,31 December 2016[58],"2,200",68,63
+65,Sudan,45 billion,31 December 2015[60],"1,100",121,65
+70,Angola,37.7 billion,31 December 2016 est.[65],"1,400",41,70
+71,Ecuador,36.7 billion,31 August 2017[66],"2,100",57,71
+77,Dominican Republic,26.1 billion,31 December 2016 est.[72],"2,400",36,77
+80,Costa Rica,24.9 billion,31 December 2016 est.[75],"5,100",43,80
+82,Ethiopia,22.5 billion,31 December 2016 est.[77],220,32,82
+83,Kenya,22.2 billion,30 June 2017[78],370,26,83
+86,Ghana,21.2 billion,31 December 2016 est.[81],700,30,86
+90,Guatemala,19.1 billion,31 December 2016 est.[85],"1,100",28,90
+94,Jamaica,16.8 billion,31 December 2016 est.[89],"6,000",122,94
+97,Paraguay,16.1 billion,31 December 2016[91],"2,400",54,97
+98,Tanzania,15.9 billion,31 December 2016 est.[92],280,34,98
+100,Nigeria,15 billion,30 June 2017[94],60,2,100
+101,El Salvador,14.9 billion,31 December 2016 est.[95],"2,400",56,101
+103,Nicaragua,11.1 billion,31 December 2016 est.[97],"1,800",83,103
+104,Zimbabwe,10.9 billion,31 December 2016 est.[98],670,77,104
+107,Ivory Coast,10 billion,31 December 2015[101],420,24,107
+109,Mozambique,9.55 billion,31 December 2016 est.[103],320,72,109
+110,Zambia,9.27 billion,31 December 2016 est.[104],540,45,110
+111,Honduras,8.04 billion,31 December 2016 est.[105],"1,000",38,111
+114,Cameroon,7.38 billion,31 December 2016 est.[108],300,24,114
+120,Bolivia,6.34 billion,31 December 2015[91],600,33,120
+121,Uganda,6.24 billion,31 December 2016 est.[113],150,24,121
+122,Senegal,6.19 billion,31 December 2016 est.[114],390,42,122
+126,Democratic Republic of the Congo,5.33 billion,31 December 2016 est.[117],70,13,126
+127,Gabon,5.16 billion,31 December 2016 est.[118],"2,900",35,127
+129,Republic of the Congo,4.82 billion,31 December 2016 est.[120],"1,000",55,129
+133,Madagascar,4.01 billion,31 December 2016 est.[124],160,41,133
+135,Mali,3.63 billion,31 December 2016 est.[126],200,26,135
+136,Mauritania,3.59 billion,31 December 2016 est.[127],840,76,136
+138,Nepal,3.45 billion,31 July 2015[129],120,16,138
+139,Burkina Faso,3.09 billion,31 December 2016 est.[130],160,26,139
+140,Somalia,3.05 billion,31 December 2013 est.[131],270,52,140
+141,Niger,2.73 billion,31 December 2016 est.[132],130,36,141
+143,Rwanda,2.44 billion,31 December 2016 est.[134],200,29,143
+146,Benin,2.34 billion,31 December 2016 est.[137],200,26,146
+148,Bhutan,2.26 billion,31 December 2016 est.[139],"2,900",108,148
+149,Haiti,2.02 billion,31 December 2016 est.[140],180,24,149
+150,Malawi,1.92 billion,31 December 2016 est.[141],100,39,150
+152,Chad,1.88 billion,31 December 2016 est.[143],130,18,152
+153,Botswana,1.69 billion,31 March 2017[144],720,8,153
+155,Cape Verde,1.66 billion,31 December 2016 est.[146],"3,100",99,155
+156,Sierra Leone,1.56 billion,31 December 2016 est.[147],230,36,156
+159,Guinea,1.33 billion,31 December 2016 est.[134],100,20,159
+160,Belize,1.33 billion,31 December 2016 est.[148],"3,500",75,160
+161,Afghanistan,1.28 billion,FY-2010/11[150],40,7,161
+163,Togo,1.17 billion,31 December 2016 est.[152],150,26,163
+164,Guyana,1.14 billion,31 December 2015[153],"1,500",36,164
+166,Liberia,1.11 billion,31 December 2016 est.[155],230,51,166
+167,Guinea-Bissau,1.1 billion,31 December 2010 est.[156],570,94,167
+168,Lesotho,949 million,31 December 2016 est.[157],430,53,168
+171,Eritrea,820 million,31 December 2016 est.[160],150,15,171
+172,Maldives,742 million,2014 est.[161],"2,000",23,172
+173,Burundi,705 million,31 December 2016 est.[162],60,26,173
+175,Central African Republic,687 million,31 December 2016 est.[164],130,39,175
+176,Grenada,679 million,2013 est.[165],"6,300",66,176
+177,Gambia,542 million,31 December 2016 est.[166],260,61,177
+178,Saint Lucia,513 million,31 December 2016 est.[167],"2,700",36,178
+181,Eswatini,471 million,31 December 2016 est.[170],360,14,181
+185,Saint Vincent and the Grenadines,321 million,31 December 2016 est.[175],"2,900",42,185
+187,Dominica,289 million,31 December 2016 est.[177],"3,900",55,187
+189,Sao Tome and Principe,237 million,31 December 2016 est.[179],"1,200",67,189
+193,Comoros,133 million,31 December 2016 est.[183],160,21,193

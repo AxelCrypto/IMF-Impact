@@ -18,14 +18,14 @@
 
 ~ **Step 2**: Database cleaning (columns names, nulls, typos and types of data)
 
-![series](https://github.com/AxelCrypto/IMF-Impact/tree/main/Images/series.png)
+![series](Images/series.png)
 
 
 ### II. Exterior Debt to GDP per country 
 #### Objective: What is the international borrowing situation of IMF borrowers ?  
 In addition to the evolution of GDP and poverties indicators for each country financed by the IMF, knowing its debt % towards external countries in comparation to its GDP would be an interesting additional indicator.
 
-![debt](https://github.com/AxelCrypto/IMF-Impact/tree/main/Images/debt.png)
+![debt](Images/debt.png)
 
 
 ~ **Step 1**: Collect the data from https://en.wikipedia.org/wiki/List_of_countries_by_external_debt  
@@ -39,7 +39,7 @@ Use of BeautifulSoup.
 ~ **Step 2**: Clean the data and export it to a DataFrame    
 ~ **Step 3**: Link the Data to the IMF DataFrame through a primary key "id_Rating".  
 
-![ratings](https://github.com/AxelCrypto/IMF-Impact/tree/main/Images/ratings.png)
+![ratings](Images/ratings.png)
 
 
 

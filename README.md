@@ -87,7 +87,7 @@ From my still long short list of indicators I decided to select the following on
 
 ###  Uganda 
 Increase of IMF loans towards $ 1.4 billion in 2021:   
-![Uganda1](Results/Uganda 1.png)
+![Uganda1](Results/Uganda1.png)
 
 Debt is never free. $800M of principal + interest in 2021 alone: 
 ![Uganda2](Results/Uganda2.png)
@@ -111,7 +111,7 @@ But the current account balance is deeply negative showing that imports > export
 ![Uganda9](Results/Uganda9.png)
 
 10% poorer remained stagnant with 2.5% of incomes:
-![Uganda10](Results/Uganda 10.png)
+![Uganda10](Results/Uganda10.png)
 
 Based on SQL query: 
 - Uganda has a credit rating of B-, an external debt to GDP of 41% and an External Debt $37M bl

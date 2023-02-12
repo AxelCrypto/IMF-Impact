@@ -87,7 +87,7 @@ From my still long short list of indicators I decided to select the following on
 
 ###  Uganda 
 Increase of IMF loans towards $ 1.4 billion in 2021:   
-![Uganda1](Results/Uganda1.png)
+![Uganda1](Results/Uganda 1.png)
 
 Debt is never free. $800M of principal + interest in 2021 alone: 
 ![Uganda2](Results/Uganda2.png)
@@ -111,5 +111,41 @@ But the current account balance is deeply negative showing that imports > export
 ![Uganda9](Results/Uganda9.png)
 
 10% poorer remained stagnant with 2.5% of incomes:
-![Uganda10](Results/Uganda10.png)
+![Uganda10](Results/Uganda 10.png)
 
+Based on SQL query: 
+- Uganda has a credit rating of B-, an external debt to GDP of 41% and an External Debt $37M bl
+
+
+
+### Bangladesh 
+Increase of IMF loans towards $ 3.2 billion in 2021:   
+![Bangladesh1](Results/Bangladesh 1.png)
+
+Debt is never free. $5.7bl of principal + interest in 2021 alone: 
+![Bangladesh2](Results/Bangladesh2.png)
+
+The net income as % of gdp going to the population tanks close to 0:  
+![Bangladesh3](Results/Bangladesh3.png)
+
+
+GDP increase is stable at around 5%. So no sign of improvement since IMF loans.
+![Bangladesh5](Results/Bangladesh5.png)
+
+Exports skyrocked:
+![Bangladesh6](Results/Bangladesh6.png)
+
+But the current account balance is negative showing that imports > exports:  
+![Bangladesh7](Results/Bangladesh7.png)
+
+% of Poverty seems improving:
+![Bangladesh9](Results/Bangladesh9.png)
+
+10% richer got a richer with currently 25% of total incomes:
+![Bangladesh10](Results/Bangladesh 10.png)
+
+10% poorer remained stagnant with aroung 3.5% of incomes:
+![Bangladesh10](Results/Bangladesh 10.png)
+
+Based on SQL query: 
+- Bangladesh has a credit rating of BB-, an external debt to GDP of 22% and an External Debt $78 bl

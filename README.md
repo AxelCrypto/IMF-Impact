@@ -146,5 +146,38 @@ But the current account balance is negative showing that imports > exports:
 10% poorer remained stagnant with aroung 3.5% of incomes:
 ![bangladesh10](Results/bangladesh10.png)
 
-Based on SQL query: 
-- banglades has a credit rating of BB-, an external debt to GDP of 22% and an External Debt $78 bl
+Based on SQL query:   
+- banglades has a credit rating of BB-, an external debt to GDP of 22% and an External Debt $78 bl   
+
+
+### Summary of results
+
+#### Based on my random sample of 5 countries 'Uganda', 'Bangladesh', 'El Salvador', 'Senegal', 'Rwanda':
+
+For the 5 countries, the GDP growth percentage is relatively stable with no signs of improvement or decline.  
+For each of the countries:  
+- There has been a drastic increase in loans from the IMF since the onset of the COVID-19 pandemic.  
+- This increase in loans has led to a rise in the yearly principal and interest payments, which now run into hundreds of millions.   
+   According to the New York Times, 70% of Argentina's debt service on external debt, including a nearly $1.6 billion bill from the IMF, is for surcharges only. (link: https://www.nytimes.com/2022/01/14/business/economy/imf-surcharges.html)   
+
+- The total exports in USD have skyrocketed in recent years.   
+- However, each country has a deeply negative current account balance, which is getting worse (with the exception of Senegal, which has remained relatively stable at -5%).  
+
+- In terms of poverty:   
+    - Uganda, Bangladesh and Senegal have not seen any improvement in the distribution of income over the last 50 years, with around 30% of the total income going to the top 10% and 2.5% going to the bottom 10% of the population.  
+    - El Salvador and Rwanda have seen slight improvements in the distribution of income over the last 25 years, with the top 10% of the population's share of total income decreasing from 40% to 35% and the bottom 10% slightly increasing.  
+
+
+Conclusion:
+The article "Structural Adjustment: How the IMF and World Bank Repress Poor Countries and Funnel Their Resources to Rich Ones" by Alex Gladstein highlights the ways in which IMF loans benefit developed countries more than the countries receiving the loans. The loans come with high interest rates and are denominated in USD, forcing the borrowing countries to focus on exporting goods to developed countries to earn the required currency. This shift in the economy negatively impacts the local population, who have to change their jobs and are unable to work to produce food for themselves and their families. Additionally, these loans are often granted to dictatorial regimes, further harming the population as the regime benefits from the loan at their expense. The IMF's control over these countries through their debt only exacerbates the situation.   
+
+The data analysis shows that the countries receiving loans do indeed increase their exports in USD terms, leading to a rise in imports as the local population is no longer producing goods for their own consumption. The analysis does not reveal any improvement or deterioration in the countries' GDP or poverty levels.   
+
+Based on 10 indicators selected for a random sample of 5 countries, we cannot challenge the facts presented by Alex Gladstein in his article.  
+https://bitcoinmagazine.com/culture/imf-world-bank-repress-poor-countries
+
+
+
+
+
+

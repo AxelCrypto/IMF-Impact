@@ -4,7 +4,7 @@ __pycache__/
 *$py.class
 mdp.txt
 *.csv
-
+Data/
 
 # C extensions
 *.so
